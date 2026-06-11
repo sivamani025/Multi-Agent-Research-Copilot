@@ -181,4 +181,4 @@ streamlit run app.py
 AI Engineer | Machine Learning Engineer | Generative AI Enthusiast
 
 
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+LinkedIn: https://linkedin.com/in/sivamani-prodduturi-487114253
